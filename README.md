@@ -1,6 +1,6 @@
 ### Hi! I’m @Paulagara 👋
 
-- ⚡ I am constantly learning and I love it! Woman Technologist
+- ⚡👩‍💻 I am constantly learning and I love it! 
 
 
 
