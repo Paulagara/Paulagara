@@ -5,7 +5,7 @@
 
 ### Contactame!:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/paula-garaventa-data-analyst/" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/paula-garaventa-data-analyst/
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulagara)
 
